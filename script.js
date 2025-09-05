@@ -54,7 +54,7 @@ const menuData = {
     },
 };
 
-const WHATSAPP_NUMBER = "551599800457,";
+const WHATSAPP_NUMBER = "5515998400457,";
 let cart = [];
 let myCombos = JSON.parse(localStorage.getItem('myCombos')) || [];
 
